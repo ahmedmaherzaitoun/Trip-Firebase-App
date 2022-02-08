@@ -1,0 +1,129 @@
+com/example/tripa/databinding/NavHeaderMainBinding.java
+ com.example.tripa.databinding.NavHeaderMainBinding
+com/example/tripa/databinding/ActivityLogoutBinding.java
+ com.example.tripa.databinding.ActivityLogoutBinding
+com/example/tripa/databinding/FragmentThirdBinding.java
+ com.example.tripa.databinding.FragmentThirdBinding
+com/example/tripa/databinding/FragmentSecondBinding.java
+ com.example.tripa.databinding.FragmentSecondBinding
+com/example/tripa/RegisterActivity.java
+ com.example.tripa.RegisterActivity
+ com.example.tripa.RegisterActivity$1
+ com.example.tripa.RegisterActivity$2
+ com.example.tripa.RegisterActivity$3
+ com.example.tripa.RegisterActivity$4
+com/example/tripa/ThirdFragment.java
+ com.example.tripa.ThirdFragment
+ com.example.tripa.ThirdFragment$1
+com/example/tripa/APIPOJO.java
+ com.example.tripa.APIPOJO
+com/example/tripa/databinding/ContentMainBinding.java
+ com.example.tripa.databinding.ContentMainBinding
+com/example/tripa/ui/slideshow/SlideshowFragment.java
+ com.example.tripa.ui.slideshow.SlideshowFragment
+ com.example.tripa.ui.slideshow.SlideshowFragment$1
+com/example/tripa/databinding/FragmentSlideshowBinding.java
+ com.example.tripa.databinding.FragmentSlideshowBinding
+com/example/tripa/databinding/AppBarMainBinding.java
+ com.example.tripa.databinding.AppBarMainBinding
+com/example/tripa/TripReminder.java
+ com.example.tripa.TripReminder
+com/example/tripa/databinding/ActivityMainBinding.java
+ com.example.tripa.databinding.ActivityMainBinding
+com/example/tripa/LogoutFragment.java
+ com.example.tripa.LogoutFragment
+ com.example.tripa.LogoutFragment$1
+ com.example.tripa.LogoutFragment$2
+com/example/tripa/databinding/LyListItemBinding.java
+ com.example.tripa.databinding.LyListItemBinding
+com/example/tripa/ui/slideshow/SlideshowViewModel.java
+ com.example.tripa.ui.slideshow.SlideshowViewModel
+com/example/tripa/ui/gallery/GalleryViewModel.java
+ com.example.tripa.ui.gallery.GalleryViewModel
+com/example/tripa/ui/home/HomeViewModel.java
+ com.example.tripa.ui.home.HomeViewModel
+com/example/tripa/LoginActivity.java
+ com.example.tripa.LoginActivity
+ com.example.tripa.LoginActivity$1
+ com.example.tripa.LoginActivity$1$1
+com/example/tripa/Listlass.java
+ com.example.tripa.Listlass
+com/example/tripa/databinding/ActivityRegisterBinding.java
+ com.example.tripa.databinding.ActivityRegisterBinding
+com/example/tripa/databinding/FragmentFirstBinding.java
+ com.example.tripa.databinding.FragmentFirstBinding
+com/example/tripa/FirstFragment.java
+ com.example.tripa.FirstFragment
+ com.example.tripa.FirstFragment$1
+com/example/tripa/databinding/ActivityLoginBinding.java
+ com.example.tripa.databinding.ActivityLoginBinding
+com/example/tripa/databinding/ActivityDetailsBinding.java
+ com.example.tripa.databinding.ActivityDetailsBinding
+com/example/tripa/Users.java
+ com.example.tripa.Users
+com/example/tripa/databinding/FragmentLogout2Binding.java
+ com.example.tripa.databinding.FragmentLogout2Binding
+com/example/tripa/databinding/UpcomingItemBinding.java
+ com.example.tripa.databinding.UpcomingItemBinding
+com/example/tripa/HomeActivity.java
+ com.example.tripa.HomeActivity
+ com.example.tripa.HomeActivity$1
+ com.example.tripa.HomeActivity$2
+com/example/tripa/BuildConfig.java
+ com.example.tripa.BuildConfig
+com/example/tripa/AlarmReceiver.java
+ com.example.tripa.AlarmReceiver
+com/example/tripa/LogoutActivity.java
+ com.example.tripa.LogoutActivity
+ com.example.tripa.LogoutActivity$1
+ com.example.tripa.LogoutActivity$2
+com/example/tripa/TripAdaptor.java
+ com.example.tripa.TripAdaptor
+ com.example.tripa.TripAdaptor$1
+ com.example.tripa.TripAdaptor$ViewHolder
+com/example/tripa/NotificationService.java
+ com.example.tripa.NotificationService
+com/example/tripa/MainActivity.java
+ com.example.tripa.MainActivity
+ com.example.tripa.MainActivity$1
+ com.example.tripa.MainActivity$2
+ com.example.tripa.MainActivity$3
+com/example/tripa/databinding/FragmentHomeBinding.java
+ com.example.tripa.databinding.FragmentHomeBinding
+com/example/tripa/databinding/FragmentGalleryBinding.java
+ com.example.tripa.databinding.FragmentGalleryBinding
+com/example/tripa/databinding/ActivityHomeBinding.java
+ com.example.tripa.databinding.ActivityHomeBinding
+com/example/tripa/ui/gallery/GalleryFragment.java
+ com.example.tripa.ui.gallery.GalleryFragment
+ com.example.tripa.ui.gallery.GalleryFragment$1
+com/example/tripa/ui/home/HomeFragment.java
+ com.example.tripa.ui.home.HomeFragment
+ com.example.tripa.ui.home.HomeFragment$1
+com/example/tripa/Model.java
+ com.example.tripa.Model
+com/example/tripa/DetailsActivity.java
+ com.example.tripa.DetailsActivity
+ com.example.tripa.DetailsActivity$1
+ com.example.tripa.DetailsActivity$2
+ com.example.tripa.DetailsActivity$3
+ com.example.tripa.DetailsActivity$3$1
+ com.example.tripa.DetailsActivity$3$1$1
+ com.example.tripa.DetailsActivity$3$2
+ com.example.tripa.DetailsActivity$4
+com/example/tripa/SecondFragment.java
+ com.example.tripa.SecondFragment
+ com.example.tripa.SecondFragment$1
+ com.example.tripa.SecondFragment$2
+ com.example.tripa.SecondFragment$3
+ com.example.tripa.SecondFragment$4
+ com.example.tripa.SecondFragment$4$1
+ com.example.tripa.SecondFragment$4$1$1
+ com.example.tripa.SecondFragment$5
+ com.example.tripa.SecondFragment$6
+ com.example.tripa.SecondFragment$6$1
+com/example/tripa/MyAdapter.java
+ com.example.tripa.MyAdapter
+ com.example.tripa.MyAdapter$1
+ com.example.tripa.MyAdapter$2
+ com.example.tripa.MyAdapter$MyViewHolder
