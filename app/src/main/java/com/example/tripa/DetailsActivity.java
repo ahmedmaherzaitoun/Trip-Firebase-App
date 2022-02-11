@@ -20,6 +20,7 @@ import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Color;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
@@ -57,6 +58,7 @@ import java.util.List;
 import java.util.Locale;
 
 import static com.basgeekball.awesomevalidation.ValidationStyle.BASIC;
+import static com.basgeekball.awesomevalidation.ValidationStyle.COLORATION;
 
 public class DetailsActivity extends AppCompatActivity {
     List<PhotoMetadata> tripmetadata ;
@@ -288,17 +290,33 @@ public class DetailsActivity extends AppCompatActivity {
            stackBuilder.addParentStack(HomeActivity.class);
            stackBuilder.addNextIntent(intent1);
 
-           PendingIntent pendingIntent;
-           pendingIntent = stackBuilder
-                   .getPendingIntent(0, PendingIntent.FLAG_UPDATE_CURRENT);
-
-           Calendar calendar = Calendar.getInstance();
-           calendar.setTimeInMillis(System.currentTimeMillis());
-           calendar.set(Calendar.HOUR_OF_DAY, 7);
-           calendar.set(Calendar.MINUTE, 0);
-           calendar.set(Calendar.SECOND, 1);
 
 
+           // notification
+           //Intent intentActivity = new Intent(getApplicationContext(),DetailsActivity.class);
+           //PendingIntent contentIntent = PendingIntent.getActivity(getApplicationContext(),
+               //    0,intentActivity,0);
+
+           Intent intentBroadcast = new Intent(getApplicationContext() ,TripReminderBroadcast.class);
+           intentBroadcast.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK| Intent.FLAG_ACTIVITY_CLEAR_TASK);
+
+           intentBroadcast.putExtra("key",intent.getStringExtra("key") +"");
+           intentBroadcast.putExtra("tripName",names);
+           intentBroadcast.putExtra("tripFrom",froms);
+           intentBroadcast.putExtra("tripTo",tos);
+
+
+           PendingIntent actionIntent = PendingIntent.getBroadcast(getApplicationContext(),
+                   0, intentBroadcast,0);
+
+           AlarmManager alarmManager = (AlarmManager) getSystemService(Context.ALARM_SERVICE);
+           alarmManager.set(AlarmManager.RTC_WAKEUP,
+                   cal.getTimeInMillis(),
+                   actionIntent);
+
+           // start trip from notification
+
+/*
            alarmManager = (AlarmManager) getSystemService( Context.ALARM_SERVICE);
            alarmManager.setExact(AlarmManager.RTC_WAKEUP,calendar.getTimeInMillis() ,pendingIntent);
 
@@ -309,12 +327,12 @@ public class DetailsActivity extends AppCompatActivity {
                    .setDefaults(NotificationCompat.DEFAULT_ALL)
                    .setPriority(NotificationCompat.PRIORITY_HIGH)
                    .setContentIntent(pendingIntent);
-
+*/
 
            Log.i("zatona", "save");
 
-           NotificationManagerCompat notificationManagerCompat = NotificationManagerCompat.from(getApplicationContext());
-           notificationManagerCompat.notify(123,builder.build());
+          // NotificationManagerCompat notificationManagerCompat = NotificationManagerCompat.from(getApplicationContext());
+           //notificationManagerCompat.notify(123,builder.build());
 
            Toast.makeText(view.getContext(),"Trip is saved",Toast.LENGTH_SHORT).show();
 
@@ -341,9 +359,7 @@ public class DetailsActivity extends AppCompatActivity {
 
 
     }
-    public static void startAlarmBroadcastReceiver(Context context) {
 
-    }
 
     private void createNotificationChannel() {
         if (Build.VERSION.SDK_INT>=Build.VERSION_CODES.O)

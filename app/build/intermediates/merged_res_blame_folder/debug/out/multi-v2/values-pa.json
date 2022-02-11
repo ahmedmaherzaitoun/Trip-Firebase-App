@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
+            "outputFile": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ahmed -pc\\.gradle\\caches\\transforms-3\\e7c6a1c6a44cadc7393b6c0e62011947\\transformed\\navigation-ui-2.3.5\\res\\values-pa\\values-pa.xml",

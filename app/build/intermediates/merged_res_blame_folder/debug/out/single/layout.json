@@ -1,74 +1,74 @@
 [
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_logout2.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\fragment_logout2.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\content_main.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\fragment_first.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\fragment_second.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\ly_list_item.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\ly_list_item.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_logout.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\activity_logout.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_logout.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\activity_logout.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\fragment_second.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_third.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\fragment_third.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_details.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\activity_details.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\upcoming_item.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\upcoming_item.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_third.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\fragment_third.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_logout2.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\fragment_logout2.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\ly_list_item.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\ly_list_item.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_details.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\activity_details.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\fragment_first.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\upcoming_item.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\upcoming_item.xml"
     },
     {
-        "merged": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
-        "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+        "merged": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     }
 ]

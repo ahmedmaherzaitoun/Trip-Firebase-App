@@ -32,7 +32,6 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
     private FirebaseDatabase firebaseDatabase;
     private FirebaseAuth auth;
     public MyAdapter(ArrayList<Model> trips) {
-
         this.trips = trips;
         firebaseDatabase = FirebaseDatabase.getInstance();
         auth = FirebaseAuth.getInstance();
@@ -59,13 +58,9 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
             @Override
             public void onClick(View view) {
 
-
-
-
                 Intent intent = new Intent( view.getContext(), DetailsActivity.class);
                 //important
                 DatabaseReference databaseReference;
-
 
                 intent.putExtra("key", trips.get(position).getTripid());
                 view.getContext().startActivity(intent);

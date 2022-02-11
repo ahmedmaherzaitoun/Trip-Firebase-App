@@ -258,11 +258,22 @@ public class SecondFragment extends Fragment implements View.OnClickListener {
                     cal=Calendar.getInstance();
                     cal.setTime(tripDate);
 
+
+                    Intent intent = new Intent(getContext() ,TripReminderBroadcast.class);
+                    PendingIntent pendingIntent = PendingIntent.getBroadcast(getContext(),0,intent,0);
+
+                    AlarmManager alarmManager = (AlarmManager) getContext().getSystemService(Context.ALARM_SERVICE);
+                    alarmManager.set(AlarmManager.RTC_WAKEUP,
+                            cal.getTimeInMillis(),
+                            pendingIntent);
+
+
+/*
+last notif
                     Intent i = new Intent(getContext(), HomeActivity.class);
                     i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK| Intent.FLAG_ACTIVITY_CLEAR_TASK);
                     i.putExtra("key" , String.valueOf(randomId));
                     PendingIntent pendingIntent = PendingIntent.getActivity(getContext(), 0,i,PendingIntent.FLAG_ONE_SHOT);
-
 
 
                     NotificationCompat.Builder builder=new NotificationCompat.Builder(getContext(),"Tripa")
@@ -286,7 +297,7 @@ public class SecondFragment extends Fragment implements View.OnClickListener {
                    //     DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yy-MM-dd|HH:mm", Locale.ENGLISH);
                    //   LocalDateTime localDate = LocalDateTime.parse(Trip.getTrip_date(), formatter);
                    // long timeInMilliseconds = localDate.atOffset(ZoneOffset.UTC).toInstant().toEpochMilli();
-
+*/
                     startActivity(sendDetails);
                 }
 
@@ -325,14 +336,16 @@ public class SecondFragment extends Fragment implements View.OnClickListener {
         };
         new DatePickerDialog(getActivity(), dateSetListener, calendar.get(Calendar.YEAR), calendar.get(Calendar.MONTH), calendar.get(Calendar.DAY_OF_MONTH)).show();
     }
+
     private void createNotificationChannel() {
         if (Build.VERSION.SDK_INT>=Build.VERSION_CODES.O)
         {
             CharSequence name="REMINDER NOTIFICATION";
             String description="It's Trip Time";
             int importance= NotificationManager.IMPORTANCE_HIGH;
-            NotificationChannel channel =new NotificationChannel("Tripa",name,importance);
+            NotificationChannel channel =new NotificationChannel("notifyTrip",name,importance);
             channel.setDescription(description);
+
             NotificationManager notificationManager = getContext().getSystemService(NotificationManager.class);
             notificationManager.createNotificationChannel(channel);
         }

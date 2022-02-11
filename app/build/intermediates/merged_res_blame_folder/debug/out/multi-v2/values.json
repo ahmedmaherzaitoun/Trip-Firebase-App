@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\finalTripa\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\courses\\Tripa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "56",
-                        "endOffsets": "109"
-                    },
-                    "to": {
-                        "startLines": "567",
-                        "startColumns": "4",
-                        "startOffsets": "28933",
-                        "endColumns": "56",
-                        "endOffsets": "28985"
-                    }
-                },
                 {
                     "source": "C:\\Users\\Ahmed -pc\\.gradle\\caches\\transforms-3\\5190f5a55bcac01c06913aa76def1f82\\transformed\\media-1.0.0\\res\\values\\values.xml",
                     "from": {
@@ -93,23 +76,6 @@
                     }
                 },
                 {
-                    "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "11,4,1,17,2,3,14,13,15,10,9,8,7,6,5",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "650,167,16,907,59,110,747,704,796,588,513,453,377,303,242",
-                        "endColumns": "52,74,42,69,50,56,48,42,52,61,74,59,75,73,60",
-                        "endOffsets": "698,237,54,972,105,162,791,742,844,645,583,508,448,372,298"
-                    },
-                    "to": {
-                        "startLines": "1634,1635,1636,1673,1677,1678,1703,1704,1705,1743,1744,1745,1746,1747,1764",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "93492,93545,93620,98062,98498,98549,101736,101785,101828,108523,108585,108660,108720,108796,110458",
-                        "endColumns": "52,74,42,69,50,56,48,42,52,61,74,59,75,73,60",
-                        "endOffsets": "93540,93615,93658,98127,98544,98601,101780,101823,101876,108580,108655,108715,108791,108865,110514"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Ahmed -pc\\.gradle\\caches\\transforms-3\\a144c0aecb9116118e1b2458883f1a10\\transformed\\recyclerview-1.2.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -129,7 +95,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ahmed -pc\\.gradle\\caches\\transforms-3\\8d8ed666060aa3d4d4c58c8dfab0feb4\\transformed\\jetified-awesome-validation-4.2\\res\\values\\values.xml",
+                    "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "11,4,1,17,2,3,14,13,15,10,9,8,7,6,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "650,167,16,907,59,110,747,704,796,588,513,453,377,303,242",
+                        "endColumns": "52,74,42,69,50,56,48,42,52,61,74,59,75,73,60",
+                        "endOffsets": "698,237,54,972,105,162,791,742,844,645,583,508,448,372,298"
+                    },
+                    "to": {
+                        "startLines": "1634,1635,1636,1673,1677,1678,1703,1704,1705,1743,1744,1745,1746,1747,1764",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "93492,93545,93620,98062,98498,98549,101736,101785,101828,108523,108585,108660,108720,108796,110458",
+                        "endColumns": "52,74,42,69,50,56,48,42,52,61,74,59,75,73,60",
+                        "endOffsets": "93540,93615,93658,98127,98544,98601,101780,101823,101876,108580,108655,108715,108791,108865,110514"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ahmed -pc\\.gradle\\caches\\transforms-3\\b4ad2a9c866406e703c08db7dbe8d948\\transformed\\jetified-awesome-validation-4.2\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -164,6 +147,23 @@
                         "endLines": "581,582,1191,1192,1193,1194,1195,1196,1197,1198,1199,1200,1201,1202,1203,1204,1205,1206,1207,1208,1209,1210,1211,1590,1699,1700,1701,1702,3807,8697",
                         "endColumns": "46,61,49,50,56,49,50,50,69,70,79,85,47,47,54,46,53,45,48,49,50,49,50,68,79,95,77,64,12,24",
                         "endOffsets": "29750,29812,65770,65821,65878,65928,65979,66030,66100,66171,66251,66337,66385,66433,66488,66535,66589,66635,66684,66734,66785,66835,66886,90551,101492,101588,101666,101731,244467,522409"
+                    }
+                },
+                {
+                    "source": "E:\\courses\\Tripa\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,709",
+                        "endColumns": "143,81,103,108,119,94,71",
+                        "endOffsets": "194,276,380,489,609,704,776"
+                    },
+                    "to": {
+                        "startLines": "1663,1668,1669,1670,1671,1672,1761",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "96940,97552,97634,97738,97847,97967,110262",
+                        "endColumns": "143,81,103,108,119,94,71",
+                        "endOffsets": "97079,97629,97733,97842,97962,98057,110329"
                     }
                 },
                 {
@@ -222,22 +222,20 @@
                     }
                 },
                 {
-                    "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Ahmed -pc\\.gradle\\caches\\transforms-3\\63fc266d4569e7455ab075a83dcf4976\\transformed\\jetified-loading-button-android-1.14.0\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "2,8,38,33,28,45,13,18,24",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "64,340,1407,1197,1032,1672,491,660,903",
-                        "endLines": "6,11,42,36,31,49,16,22,26",
-                        "endColumns": "12,12,12,12,12,12,12,12,12",
-                        "endOffsets": "334,485,1665,1401,1191,1917,654,897,1026"
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,92,147,187",
+                        "endColumns": "36,54,39,329",
+                        "endOffsets": "87,142,182,512"
                     },
                     "to": {
-                        "startLines": "1781,1786,5693,5698,5702,5706,5711,5715,5720",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "111657,111932,370933,371196,371405,371569,371819,371987,372229",
-                        "endLines": "1785,1789,5697,5701,5705,5710,5714,5719,5722",
-                        "endColumns": "12,12,12,12,12,12,12,12,12",
-                        "endOffsets": "111927,112077,371191,371400,371564,371814,371982,372224,372352"
+                        "startLines": "494,510,564,6897",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "23894,24964,28758,435492",
+                        "endColumns": "36,54,39,329",
+                        "endOffsets": "23926,25014,28793,435817"
                     }
                 },
                 {
@@ -277,6 +275,25 @@
                     }
                 },
                 {
+                    "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2,8,38,33,28,45,13,18,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "64,340,1407,1197,1032,1672,491,660,903",
+                        "endLines": "6,11,42,36,31,49,16,22,26",
+                        "endColumns": "12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "334,485,1665,1401,1191,1917,654,897,1026"
+                    },
+                    "to": {
+                        "startLines": "1781,1786,5693,5698,5702,5706,5711,5715,5720",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "111657,111932,370933,371196,371405,371569,371819,371987,372229",
+                        "endLines": "1785,1789,5697,5701,5705,5710,5714,5719,5722",
+                        "endColumns": "12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "111927,112077,371191,371400,371564,371814,371982,372224,372352"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Ahmed -pc\\.gradle\\caches\\transforms-3\\2a6d91a2318c1729f77d921c68aff8fd\\transformed\\jetified-appcompat-resources-1.3.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,29,36,47,74",
@@ -293,23 +310,6 @@
                         "endLines": "5883,5890,5901,9555,9560",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "381736,382121,382718,564760,565030"
-                    }
-                },
-                {
-                    "source": "E:\\finalTripa\\Tripa\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,709",
-                        "endColumns": "143,81,103,108,119,94,71",
-                        "endOffsets": "194,276,380,489,609,704,776"
-                    },
-                    "to": {
-                        "startLines": "1663,1668,1669,1670,1671,1672,1761",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "96940,97552,97634,97738,97847,97967,110262",
-                        "endColumns": "143,81,103,108,119,94,71",
-                        "endOffsets": "97079,97629,97733,97842,97962,98057,110329"
                     }
                 },
                 {
@@ -351,54 +351,20 @@
                     }
                 },
                 {
-                    "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
                     "from": {
-                        "startLines": "6,7,10,2,4,9,8,3",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "302,360,524,88,182,474,416,134",
-                        "endColumns": "57,55,41,45,47,49,57,47",
-                        "endOffsets": "355,411,561,129,225,519,469,177"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
                     },
                     "to": {
-                        "startLines": "1075,1076,1140,1144,1155,1407,1408,1409",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "57962,58020,62159,62364,63244,79658,79708,79766",
-                        "endColumns": "57,55,41,45,47,49,57,47",
-                        "endOffsets": "58015,58071,62196,62405,63287,79703,79761,79809"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Ahmed -pc\\.gradle\\caches\\transforms-3\\ceb4e9d05df87dfa2a95c94ff3e3efd0\\transformed\\jetified-loading-button-android-1.14.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,92,147,187",
-                        "endColumns": "36,54,39,329",
-                        "endOffsets": "87,142,182,512"
-                    },
-                    "to": {
-                        "startLines": "494,510,564,6897",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "23894,24964,28758,435492",
-                        "endColumns": "36,54,39,329",
-                        "endOffsets": "23926,25014,28793,435817"
-                    }
-                },
-                {
-                    "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3,13,12,15,17,6,7,8,14,9,10,5,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "152,55,104,523,475,626,718,243,290,337,574,384,429,198,672",
-                        "endColumns": "45,48,47,50,47,45,50,46,46,46,51,44,44,44,45",
-                        "endOffsets": "193,99,147,569,518,667,764,285,332,379,621,424,469,238,713"
-                    },
-                    "to": {
-                        "startLines": "507,508,509,519,520,568,621,630,631,632,976,987,988,989,992",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "24821,24867,24916,25690,25741,28990,31967,32606,32653,32700,51415,52164,52209,52254,52420",
-                        "endColumns": "45,48,47,50,47,45,50,46,46,46,51,44,44,44,45",
-                        "endOffsets": "24862,24911,24959,25736,25784,29031,32013,32648,32695,32742,51462,52204,52249,52294,52461"
+                        "startLines": "567",
+                        "startColumns": "4",
+                        "startOffsets": "28933",
+                        "endColumns": "56",
+                        "endOffsets": "28985"
                     }
                 },
                 {
@@ -421,6 +387,23 @@
                     }
                 },
                 {
+                    "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3,13,12,15,17,6,7,8,14,9,10,5,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "152,55,104,523,475,626,718,243,290,337,574,384,429,198,672",
+                        "endColumns": "45,48,47,50,47,45,50,46,46,46,51,44,44,44,45",
+                        "endOffsets": "193,99,147,569,518,667,764,285,332,379,621,424,469,238,713"
+                    },
+                    "to": {
+                        "startLines": "507,508,509,519,520,568,621,630,631,632,976,987,988,989,992",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "24821,24867,24916,25690,25741,28990,31967,32606,32653,32700,51415,52164,52209,52254,52420",
+                        "endColumns": "45,48,47,50,47,45,50,46,46,46,51,44,44,44,45",
+                        "endOffsets": "24862,24911,24959,25736,25784,29031,32013,32648,32695,32742,51462,52204,52249,52294,52461"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Ahmed -pc\\.gradle\\caches\\transforms-3\\5cb5bbbf718669704e4d37fef8d0d445\\transformed\\jetified-play-services-base-17.5.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,33,46",
@@ -437,6 +420,23 @@
                         "endLines": "511,512,513,514,515,516,517,518,1645,1646,1647,1648,1649,1650,1651,1652,1654,1655,1656,1657,1658,1659,1660,1661,1662,8430,9430",
                         "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78,20,20",
                         "endOffsets": "25104,25184,25274,25364,25444,25525,25605,25685,94707,94888,95013,95120,95300,95423,95539,95642,95997,96102,96283,96408,96583,96731,96794,96856,96935,510696,558103"
+                    }
+                },
+                {
+                    "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "6,7,10,2,4,9,8,3",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "302,360,524,88,182,474,416,134",
+                        "endColumns": "57,55,41,45,47,49,57,47",
+                        "endOffsets": "355,411,561,129,225,519,469,177"
+                    },
+                    "to": {
+                        "startLines": "1075,1076,1140,1144,1155,1407,1408,1409",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "57962,58020,62159,62364,63244,79658,79708,79766",
+                        "endColumns": "57,55,41,45,47,49,57,47",
+                        "endOffsets": "58015,58071,62196,62405,63287,79703,79761,79809"
                     }
                 },
                 {
@@ -531,6 +531,25 @@
                     }
                 },
                 {
+                    "source": "E:\\courses\\Tripa\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,21,16,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "100,989,835,1084",
+                        "endLines": "14,21,19,23",
+                        "endColumns": "12,93,12,83",
+                        "endOffsets": "829,1078,983,1163"
+                    },
+                    "to": {
+                        "startLines": "4572,4585,4586,4590",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "297797,298529,298622,298775",
+                        "endLines": "4584,4585,4589,4590",
+                        "endColumns": "12,92,12,82",
+                        "endOffsets": "298524,298617,298770,298853"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Ahmed -pc\\.gradle\\caches\\transforms-3\\cac08a2fbbb48afaebafc41245272e29\\transformed\\jetified-play-services-maps-17.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -547,25 +566,6 @@
                         "endLines": "8489",
                         "endColumns": "20",
                         "endOffsets": "512118"
-                    }
-                },
-                {
-                    "source": "E:\\finalTripa\\Tripa\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2,21,16,23",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "100,989,835,1084",
-                        "endLines": "14,21,19,23",
-                        "endColumns": "12,93,12,83",
-                        "endOffsets": "829,1078,983,1163"
-                    },
-                    "to": {
-                        "startLines": "4572,4585,4586,4590",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "297797,298529,298622,298775",
-                        "endLines": "4584,4585,4589,4590",
-                        "endColumns": "12,92,12,82",
-                        "endOffsets": "298524,298617,298770,298853"
                     }
                 },
                 {

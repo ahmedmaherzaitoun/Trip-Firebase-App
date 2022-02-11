@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:2:1-44:12
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:2:1-45:12
 MERGED from [androidx.databinding:viewbinding:4.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\81d058e6fb9174acf1ebc34c4819d31b\transformed\jetified-viewbinding-4.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\1445a828126e9b0460749f84f254596a\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\e7c6a1c6a44cadc7393b6c0e62011947\transformed\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
-MERGED from [com.basgeekball:awesome-validation:4.2] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\8d8ed666060aa3d4d4c58c8dfab0feb4\transformed\jetified-awesome-validation-4.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.basgeekball:awesome-validation:4.2] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\b4ad2a9c866406e703c08db7dbe8d948\transformed\jetified-awesome-validation-4.2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\e3f14628e372700f8a9388aab2c50c32\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\339cbdcc2f9341dbcffd4e079eb30111\transformed\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
-MERGED from [br.com.simplepass:loading-button-android:1.14.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\ceb4e9d05df87dfa2a95c94ff3e3efd0\transformed\jetified-loading-button-android-1.14.0\AndroidManifest.xml:2:1-11:12
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\63fc266d4569e7455ab075a83dcf4976\transformed\jetified-loading-button-android-1.14.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.libraries.places:places:2.4.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\91f7a087a4788e6fe3b1bd39f4e3c8b4\transformed\jetified-places-2.4.0\AndroidManifest.xml:2:1-23:12
 MERGED from [io.github.damianvdb:materialchecklist:1.0.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\d445d814089f73658e3f1a8e24c17097\transformed\jetified-materialchecklist-1.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\47b8cb9d315a4e3c5048710cb6408dd8\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
@@ -25,7 +25,7 @@ MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Ahmed -pc\.gradle
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\af67e5a7287a4253a260a36cb9d9b09a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\f0db4d649d48fad2a67a87a9ecd34777\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\a144c0aecb9116118e1b2458883f1a10\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.wajahatkarim3.easyvalidation:easyvalidation-core:1.0.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\1cf8041a6716f9ca7e8208226bb3a6e4\transformed\jetified-easyvalidation-core-1.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.wajahatkarim3.easyvalidation:easyvalidation-core:1.0.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\4eb42f06485d9c82bb836af28e3805a0\transformed\jetified-easyvalidation-core-1.0.1\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\d7e7b4711264c69f6864c7adf98911b4\transformed\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:2:1-21:12
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\08c914457af234f9f1eddb1c0bb392ad\transformed\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\aa7a79626ee293d55b309fc943eeed14\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:15:1-49:12
@@ -82,27 +82,27 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Ahmed -pc\.gradle\caches\trans
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\8b83017bbab153642e1401d4b6f78ee9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\eab38f7deebb0ed39d494cfd0222f617\transformed\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\85078d3277f3db36524990e047c46354\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.volley:volley:1.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\043d8fd04fae672f415bb8ef22d31d70\transformed\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\b69e410a0f99b84e060653130167febb\transformed\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\d27d58eea069941cba8ee47a60ddbbcc\transformed\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
-INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:2:1-45:12
 	package
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:3:5-32
-		INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
-		INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
+		INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:2:1-44:12
-		INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
+		INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:2:1-44:12
-		INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
+		INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:5:5-67
 MERGED from [com.google.android.libraries.places:places:2.4.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\91f7a087a4788e6fe3b1bd39f4e3c8b4\transformed\jetified-places-2.4.0\AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.libraries.places:places:2.4.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\91f7a087a4788e6fe3b1bd39f4e3c8b4\transformed\jetified-places-2.4.0\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\10d97921dcc1f1604cb46fd9408af142\transformed\jetified-firebase-auth-20.0.2\AndroidManifest.xml:23:5-67
@@ -114,9 +114,9 @@ MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahmed -p
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\f1d4b26affa4f079da412e96c9beaeb9\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\f1d4b26affa4f079da412e96c9beaeb9\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:6:5-79
 MERGED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\10d97921dcc1f1604cb46fd9408af142\transformed\jetified-firebase-auth-20.0.2\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-auth:20.0.2] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\10d97921dcc1f1604cb46fd9408af142\transformed\jetified-firebase-auth-20.0.2\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-database:19.6.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\8e1942b78b8080b0b9c6caa3d3cc1ffd\transformed\jetified-firebase-database-19.6.0\AndroidManifest.xml:25:5-79
@@ -128,29 +128,29 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Us
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\9b75c37da1b7d5ac764eba19fda89d3b\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\9b75c37da1b7d5ac764eba19fda89d3b\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:7:5-66
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:7:22-63
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:7:22-63
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:8:5-81
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:8:22-78
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:8:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:9:5-75
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:9:5-75
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:9:22-72
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:9:22-72
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:10:5-80
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:10:5-80
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:10:22-77
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:10:22-77
 uses-permission#android.permission.WAKE_LOCK
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:11:5-68
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:11:5-68
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:11:22-65
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:11:22-65
 application
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:12:5-42:19
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:12:5-43:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\e3f14628e372700f8a9388aab2c50c32\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\e3f14628e372700f8a9388aab2c50c32\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\339cbdcc2f9341dbcffd4e079eb30111\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
@@ -197,84 +197,88 @@ MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\9b75c37da1b7d5ac764eba19fda89d3b\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:25:5-39:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\a7c8c2c14106d630f9211ea3145c3bae\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\a7c8c2c14106d630f9211ea3145c3bae\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [com.android.volley:volley:1.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\043d8fd04fae672f415bb8ef22d31d70\transformed\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\043d8fd04fae672f415bb8ef22d31d70\transformed\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\b69e410a0f99b84e060653130167febb\transformed\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\b69e410a0f99b84e060653130167febb\transformed\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\96bf51f975580f1aabf988204a810c70\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:15:9-41
 	android:roundIcon
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:16:9-54
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:16:9-54
 	android:icon
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:18:9-43
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:18:9-43
 activity#com.example.tripa.LogoutActivity
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:19:9-20:20
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:19:9-20:20
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:19:19-49
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:19:19-49
 activity#com.example.tripa.MainActivity
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:21:9-23:59
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:21:9-23:59
 	android:label
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:23:13-56
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:23:13-56
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:22:13-41
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:22:13-41
 activity#com.example.tripa.DetailsActivity
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:24:9-53
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:24:9-53
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:24:19-50
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:24:19-50
 activity#com.example.tripa.HomeActivity
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:25:9-26:15
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:25:9-26:15
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:25:19-47
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:25:19-47
 activity#com.example.tripa.RegisterActivity
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:27:9-30:47
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:27:9-30:47
 	android:exported
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:29:13-36
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:29:13-36
 	android:theme
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:30:13-44
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:30:13-44
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:28:13-45
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:28:13-45
 activity#com.example.tripa.LoginActivity
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:31:9-40:20
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:31:9-40:20
 	android:exported
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:33:13-36
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:33:13-36
 	android:theme
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:34:13-44
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:34:13-44
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:32:13-42
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:32:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:35:13-39:29
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:35:13-39:29
 action#android.intent.action.MAIN
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:36:17-69
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:36:25-66
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:38:17-77
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml:38:27-74
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:38:27-74
+receiver#com.example.tripa.TripReminderBroadcast
+ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:41:9-68
+	android:name
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml:41:19-56
 uses-sdk
-INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
-INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
+INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
+INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:4.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\81d058e6fb9174acf1ebc34c4819d31b\transformed\jetified-viewbinding-4.1.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:viewbinding:4.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\81d058e6fb9174acf1ebc34c4819d31b\transformed\jetified-viewbinding-4.1.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\1445a828126e9b0460749f84f254596a\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\1445a828126e9b0460749f84f254596a\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\e7c6a1c6a44cadc7393b6c0e62011947\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\e7c6a1c6a44cadc7393b6c0e62011947\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
-MERGED from [com.basgeekball:awesome-validation:4.2] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\8d8ed666060aa3d4d4c58c8dfab0feb4\transformed\jetified-awesome-validation-4.2\AndroidManifest.xml:7:5-9:41
-MERGED from [com.basgeekball:awesome-validation:4.2] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\8d8ed666060aa3d4d4c58c8dfab0feb4\transformed\jetified-awesome-validation-4.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.basgeekball:awesome-validation:4.2] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\b4ad2a9c866406e703c08db7dbe8d948\transformed\jetified-awesome-validation-4.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.basgeekball:awesome-validation:4.2] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\b4ad2a9c866406e703c08db7dbe8d948\transformed\jetified-awesome-validation-4.2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\e3f14628e372700f8a9388aab2c50c32\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\e3f14628e372700f8a9388aab2c50c32\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\339cbdcc2f9341dbcffd4e079eb30111\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\339cbdcc2f9341dbcffd4e079eb30111\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
-MERGED from [br.com.simplepass:loading-button-android:1.14.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\ceb4e9d05df87dfa2a95c94ff3e3efd0\transformed\jetified-loading-button-android-1.14.0\AndroidManifest.xml:7:5-9:41
-MERGED from [br.com.simplepass:loading-button-android:1.14.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\ceb4e9d05df87dfa2a95c94ff3e3efd0\transformed\jetified-loading-button-android-1.14.0\AndroidManifest.xml:7:5-9:41
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\63fc266d4569e7455ab075a83dcf4976\transformed\jetified-loading-button-android-1.14.0\AndroidManifest.xml:7:5-9:41
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\63fc266d4569e7455ab075a83dcf4976\transformed\jetified-loading-button-android-1.14.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.libraries.places:places:2.4.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\91f7a087a4788e6fe3b1bd39f4e3c8b4\transformed\jetified-places-2.4.0\AndroidManifest.xml:7:5-44
 MERGED from [com.google.android.libraries.places:places:2.4.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\91f7a087a4788e6fe3b1bd39f4e3c8b4\transformed\jetified-places-2.4.0\AndroidManifest.xml:7:5-44
 MERGED from [io.github.damianvdb:materialchecklist:1.0.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\d445d814089f73658e3f1a8e24c17097\transformed\jetified-materialchecklist-1.0.0\AndroidManifest.xml:7:5-9:41
@@ -303,8 +307,8 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ahmed -pc\.gradle\ca
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\f0db4d649d48fad2a67a87a9ecd34777\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\a144c0aecb9116118e1b2458883f1a10\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\a144c0aecb9116118e1b2458883f1a10\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.wajahatkarim3.easyvalidation:easyvalidation-core:1.0.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\1cf8041a6716f9ca7e8208226bb3a6e4\transformed\jetified-easyvalidation-core-1.0.1\AndroidManifest.xml:7:5-9:41
-MERGED from [com.wajahatkarim3.easyvalidation:easyvalidation-core:1.0.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\1cf8041a6716f9ca7e8208226bb3a6e4\transformed\jetified-easyvalidation-core-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wajahatkarim3.easyvalidation:easyvalidation-core:1.0.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\4eb42f06485d9c82bb836af28e3805a0\transformed\jetified-easyvalidation-core-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wajahatkarim3.easyvalidation:easyvalidation-core:1.0.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\4eb42f06485d9c82bb836af28e3805a0\transformed\jetified-easyvalidation-core-1.0.1\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\d7e7b4711264c69f6864c7adf98911b4\transformed\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\d7e7b4711264c69f6864c7adf98911b4\transformed\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\08c914457af234f9f1eddb1c0bb392ad\transformed\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
@@ -417,20 +421,20 @@ MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\Ahmed -
 MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\eab38f7deebb0ed39d494cfd0222f617\transformed\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\85078d3277f3db36524990e047c46354\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\85078d3277f3db36524990e047c46354\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.android.volley:volley:1.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\043d8fd04fae672f415bb8ef22d31d70\transformed\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:1.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\043d8fd04fae672f415bb8ef22d31d70\transformed\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\b69e410a0f99b84e060653130167febb\transformed\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\b69e410a0f99b84e060653130167febb\transformed\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\d27d58eea069941cba8ee47a60ddbbcc\transformed\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\d27d58eea069941cba8ee47a60ddbbcc\transformed\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
-INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
-INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
+INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
+INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
-		INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
+		INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
+		INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
-		ADDED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
-		INJECTED from E:\finalTripa\Tripa\app\src\main\AndroidManifest.xml
+		INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
+		ADDED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
+		INJECTED from E:\courses\Tripa\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from [com.google.android.libraries.places:places:2.4.0] C:\Users\Ahmed -pc\.gradle\caches\transforms-3\91f7a087a4788e6fe3b1bd39f4e3c8b4\transformed\jetified-places-2.4.0\AndroidManifest.xml:9:5-79
 	android:name

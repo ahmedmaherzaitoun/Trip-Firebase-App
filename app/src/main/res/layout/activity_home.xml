@@ -15,13 +15,14 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/container"
         app:layout_constraintVertical_bias="0.995"
-        app:menu="@menu/bottom_menu"/>
+        app:menu="@menu/bottom_menu" />
+
     <FrameLayout
         android:id="@+id/container"
-        android:layout_width="match_parent"
-        android:layout_height="730dp"
+        android:layout_width="390dp"
+        android:layout_height="774dp"
         tools:ignore="MissingConstraints">
 
 
@@ -30,7 +31,7 @@
 
             android:name="androidx.navigation.fragment.NavHostFragment"
             android:layout_width="match_parent"
-            android:layout_height="711dp"
+            android:layout_height="782dp"
             app:defaultNavHost="true"
             app:navGraph="@navigation/my_nav" />
     </FrameLayout>
